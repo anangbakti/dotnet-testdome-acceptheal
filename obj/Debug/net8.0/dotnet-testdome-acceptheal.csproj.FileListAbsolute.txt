@@ -1,0 +1,14 @@
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\bin\Debug\net8.0\dotnet-testdome-acceptheal.exe
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\bin\Debug\net8.0\dotnet-testdome-acceptheal.deps.json
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\bin\Debug\net8.0\dotnet-testdome-acceptheal.runtimeconfig.json
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\bin\Debug\net8.0\dotnet-testdome-acceptheal.dll
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\bin\Debug\net8.0\dotnet-testdome-acceptheal.pdb
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\dotnet-testdome-acceptheal.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\dotnet-testdome-acceptheal.AssemblyInfoInputs.cache
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\dotnet-testdome-acceptheal.AssemblyInfo.cs
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\dotnet-testdome-acceptheal.csproj.CoreCompileInputs.cache
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\dotnet-testdome-acceptheal.dll
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\refint\dotnet-testdome-acceptheal.dll
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\dotnet-testdome-acceptheal.pdb
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\dotnet-testdome-acceptheal.genruntimeconfig.cache
+E:\PROJECTS\dotnet-porto\dotnet-testdome-acceptheal\obj\Debug\net8.0\ref\dotnet-testdome-acceptheal.dll

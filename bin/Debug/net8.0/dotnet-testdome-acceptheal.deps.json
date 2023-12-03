@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dotnet-testdome-acceptheal/1.0.0": {
+        "runtime": {
+          "dotnet-testdome-acceptheal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-testdome-acceptheal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
